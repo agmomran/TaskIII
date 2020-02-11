@@ -1,0 +1,101 @@
+@font-face{
+  font-family: athen;
+  src: url(../fonts/athena.woff);
+}
+@font-face{
+  font-family: ketosa;
+  src: url(../fonts/keto.woff);
+}
+@font-face{
+  font-family: fonten;
+  src: url(../fonts/font.ttf);
+}
+@font-face{
+  font-family: magento;
+  src: url(../fonts/magenta.ttf);
+}
+@font-face{
+  font-family: monoto;
+  src: url(../fonts/mono.ttf);
+}
+body{
+  background: linear-gradient(to right bottom,#ca3249,#e28b46) no-repeat;
+  height: 100%;
+}
+.nav2{
+  list-style: none;
+  display: inline-block;  
+}
+.a1{
+  text-decoration: none;
+  border: solid white;
+  width: 130px;
+  height: 25px;
+  border-radius: 20px;
+  color: white;
+  display: inline-block;
+  text-align: center;
+  font-size: 20px;
+  font-family: monoto;
+  font-weight: bold;
+}
+.a2{
+  text-decoration: none;
+  border: solid white;
+  border-radius: 20px;
+  color: #ca3249;
+  background: white;
+  display: inline-block;
+  width: 100px;
+  height: 25px;
+  text-align: center;
+  font-size: 23px;
+  font-family: monoto;
+  font-weight: bold;
+  }
+.nav{
+  margin-left: 1040px;
+}
+.tagline{
+  text-align: center;
+  color: white;
+  font-family: ketosa;
+  
+}
+.icons2{
+  display: inline-block;
+  text-align: center;
+  margin-left: 70px;
+  font-family: ketosa;
+  
+}
+ul li i{
+  color: white;
+  font-size: 100px;
+}
+.icons3{
+  list-style: none;
+  display: inline-block;
+  text-align: center;
+  margin-top: 0px;
+  margin-left: 70px;
+  font-family: ketosa;
+
+ }
+h1{
+  color: white;
+  text-decoration: underline;
+}
+p{
+  width: 300px;
+  text-align: center;
+  font-family: monoto;
+  font-size: 25px;
+  text-decoration: none;
+  font-weight: bold
+  
+}
+.tagline{
+  margin-bottom: 20px;
+  font-size: 50px
+}
